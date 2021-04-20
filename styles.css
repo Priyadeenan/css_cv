@@ -1,0 +1,164 @@
+*
+{
+  margin: 0;
+
+}
+body
+{
+
+  background : url("images/bg55.jpg")  ;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+.name p
+{
+  font-size: 05rem;
+  text-align: center;
+  height: 25vh;
+  line-height: 20vh;
+  color: #FFC0CB;
+  font-family: 'Niconne', cursive;
+  text-shadow: 1px 1px 2px pink;
+  font-weight: 75;
+
+
+}
+
+.box{
+  width: 450px;
+  background: rgba(0,0,0,0);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 0%;
+}
+
+.box-img
+{
+  border-radius: 75%;
+  width: 350px;
+  height: 380px;
+
+}
+
+
+.about-container h2
+{
+  width: 95%;
+  text-align: center;
+  height: 100px;
+  margin-left: 17px;
+  color:  #7AD7F0;
+}
+hr{
+  border: dotted #EAF6F6 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+
+h2
+{
+ text-align: justify;
+ color: #ffffff;
+}
+.education p
+{
+text-align: center;
+color:  #7AD7F0;
+padding-left: 5px;
+margin-top:10px;
+}
+.education img
+{
+  margin-top: 10%;
+  margin-left: 45%;
+  height: 150px;
+  width: 150px;
+
+}
+hr{
+  border: dotted #EAF6F6 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+
+
+
+.certificates p
+{
+text-align: center;
+color:  #7AD7F0;
+padding-left: 5px;
+margin-top:10px;
+}
+.certificates img
+{
+  margin-top: 10%;
+  margin-left: 45%;
+  height: 150px;
+  width: 150px;
+
+}
+hr{
+  border: dotted #EAF6F6 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+
+.my_projects p
+{
+text-align: center;
+color:  #7AD7F0;
+padding-left: 5px;
+margin-top:10px;
+}
+.my_projects img
+{
+  margin-top: 10%;
+  margin-left: 45%;
+}
+
+hr{
+  border: dotted #EAF6F6 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+h1
+{
+  font-weight: lighter;
+  font-size: 80px;
+  color:#fff;
+  text-align: center;
+  padding-top: 50px;
+  margin-bottom: 0;
+}
+li{
+  list-style: none;
+  margin: 10px 30px;
+  display: inline-block;
+  font-size: 20px;
+  padding: 5px 5px;
+  border: 0px solid #ffff ;
+  height: 30px;
+  margin-left: 16.5%;
+
+}
+.social-media h1
+{
+  font-size: 55px;
+}
+.social-media img
+{
+
+  height: 30px;
+  margin-left: 10%;
+
+}
